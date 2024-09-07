@@ -1,0 +1,5 @@
+Hello game developers! To get started, double click the scene file called "Programming 101".
+
+Once that is opened, double click on ExampleScript which will walk you through an example script file.
+
+Don't forget you can click the Play button (looks like a triangle) at the top center of the Unity window and it will start the game.
