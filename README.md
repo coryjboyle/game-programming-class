@@ -49,4 +49,9 @@ Unity3d is an industry-standard game engine that allows projects to be coded onc
 ![New Project](./docs/img/install_04.png)
 7. Download the `Universal 3D` project template. Give your project a name and choose a location on your device to create the project in. Uncheck the boxes Then click `Create project`.
 ![Project template](./docs/img/install_05.png)
-8. Optionally, you can import the lab examples from the latest lab class Unity Package file. See the Band or Discord for the latest.
+8. You can import the lab examples from the latest lab class Unity Package file. See the Band or Discord for the latest package file. To import, go to the menu bar and select `Assets > Import Package > Custom Package...`
+![Custom package](./docs/img/import_01.png)
+Choose the .unitypackage file and click OK!
+
+> [!TIP]
+> Check the `0. Intro to Programming` folder for some script examples and programming tutorials! Double click a script to open it in Visual Studio.
